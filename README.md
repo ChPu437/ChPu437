@@ -1,5 +1,8 @@
 ### Hi there 👋
-# **ChPu437** 
+
+I'm just a senior middle school student.😀
+
+**Not always active** because there's no access to Internet in boarding school.
 
 <!--
 **ChPu437/chpu437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
