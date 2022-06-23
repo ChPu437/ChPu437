@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm just a senior middle school student.😀
+I'm just a ~~senior middle school~~ pre-college student.😀
 
-**Not always active** because there's no access to Internet in boarding school.
+~~**Not always active** because there's no access to Internet in boarding school.~~
 
 <!--
 **ChPu437/chpu437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
